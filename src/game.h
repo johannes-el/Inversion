@@ -14,7 +14,6 @@
 #include "./player.h"
 
 #include "raylib.h"
-#include "gtest/gtest.h"
 
 namespace Inversion {
 

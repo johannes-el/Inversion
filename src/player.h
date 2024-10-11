@@ -12,7 +12,6 @@
 #include "raylib.h"
 
 #include <array>
-#include <gtest/gtest.h>
 #include <memory>
 #include <vector>
 
@@ -49,7 +48,6 @@ private:
   // Handles collision between the player and the environment.
   void handle_collision(std::vector<Rectangle> &level, Vector2 &new_pos,
                         bool &on_ground);
-  FRIEND_TEST(PlayerTest, handle_collision);
 
   // Make the player happy initially.
   EmotionStates m_EmotionState = EmotionStates::HAPPY;
