@@ -2,6 +2,10 @@
 
 **Inversion** is a 2D platformer that features unique gameplay mechanics, such as gravity manipulation, to challenge the player through various levels.
 
+![Screenshot 1](screenshots/screenshot1.png)
+
+![Screenshot 2](screenshots/screenshot2.png)
+
 ## Controls
 ----------------------------------------------------------------
 - **Arrow Keys** or **A/D**: Move left and right.
